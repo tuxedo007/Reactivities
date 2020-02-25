@@ -7,6 +7,7 @@ using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
+// Gary test changes with GIT
 namespace API.Controllers
 {
     public class ActivitiesController : BaseController
